@@ -1,0 +1,68 @@
+body {
+    background-image: url(watch.jpg);
+    background-size:136% ;
+    
+}
+main {
+    border: white 2px solid;
+    border-radius:60px;
+    border-bottom: 66px;
+    max-width: 1000%;
+    max-height: 1000%;
+    
+}
+h1 {
+    color:white;
+    text-align: center;
+    font-family: Times New Roman;
+    margin-top:245px;
+    margin-left:620px;
+    border:3px solid white;
+    width: 130px;
+    transition:0.6s;
+    
+
+}
+
+h1:hover {
+color:black;
+border:3px solid white;
+border-left-width: 32px;
+}
+
+ul > li {
+    margin:6px;
+    padding:3px;
+    font-family: Times New Roman;
+    
+    
+ 
+}
+
+.mi {
+    color:white;
+    font-size: 24px;
+    opacity: 1;
+    transition: 0.8s;
+
+    
+}
+.mi:hover {
+    opacity:0.4;
+   
+}
+
+.niz {
+    margin-bottom: -120px;
+    padding-bottom: -120px;
+}
+
+#logo {
+    size: 70%;
+    opacity: 0.4;
+    transition: 0.8s;
+}
+
+#logo:hover {
+    opacity: 1;
+}
